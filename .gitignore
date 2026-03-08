@@ -1,0 +1,21 @@
+# Raw downloaded data files — these are fetched from TTB and can be re-downloaded
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+
+# Keep the raw directory itself committed via .gitkeep
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

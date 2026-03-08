@@ -1,0 +1,46 @@
+{
+  "latest_period": {
+    "year": 2025,
+    "month": 10,
+    "label": "2025-10"
+  },
+  "data_range": {
+    "start_year": 2012,
+    "start_month": 1,
+    "end_year": 2025,
+    "end_month": 10
+  },
+  "production": {
+    "current": 237267368.0,
+    "prior_year": 253885904.0,
+    "yoy_change_pct": -6.55,
+    "unit": "gallons"
+  },
+  "taxable_withdrawals": {
+    "current": 47832996.0,
+    "prior_year": 50252917.0,
+    "yoy_change_pct": -4.82,
+    "unit": "gallons"
+  },
+  "stocks_on_hand": {
+    "current": 898164870.0,
+    "prior_year": 955716991.0,
+    "unit": "gallons"
+  },
+  "inventory_coverage": {
+    "months": 19.14,
+    "interpretation": "elevated inventory \u2014 potential oversupply"
+  },
+  "active_wineries": {
+    "current": 1326.0,
+    "yoy_change": -175.0
+  },
+  "export_share": {
+    "pct": 16.91,
+    "interpretation": "high export orientation"
+  },
+  "market_balance": {
+    "withdrawal_production_ratio": 0.2,
+    "interpretation": "inventory build-up \u2014 production exceeds demand"
+  }
+}
